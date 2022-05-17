@@ -23,6 +23,7 @@
 筋トレの記録をつけたいとき。
 
 ## 設計書
+実装機能リスト URL: https://docs.google.com/spreadsheets/d/1NP9g0sWhLQItFmSv-_ASceew1TUR61lHTmOQo-l4sMA/edit?usp=sharing
 WBS URL: https://docs.google.com/spreadsheets/d/1PFJxjtIEztZqSSfiF7UvaiwYTlhzo5rezLgsi9g_hKE/edit?usp=sharing
 
 ## 開発環境
